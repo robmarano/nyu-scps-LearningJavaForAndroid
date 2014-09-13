@@ -1,5 +1,7 @@
 .DS_Store
 *.class
+/.idea/
+.idea/workspace.xml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
