@@ -2,9 +2,6 @@ package academy.thehackerati.com;
 
 import java.util.ArrayList;
 
-/**
- * Created by rob on 9/13/14.
- */
 public class Fibonacci {
     // members
     protected int m_fibLength;
