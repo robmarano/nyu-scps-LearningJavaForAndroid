@@ -1,9 +1,6 @@
 package academy.thehackerati.com;
 
-public class Shape {
-    public double area() {
-        return 0.0;
-    }
+public abstract class Shape implements IShape {
 
     public String toString() {
         StringBuilder sb = new StringBuilder();
